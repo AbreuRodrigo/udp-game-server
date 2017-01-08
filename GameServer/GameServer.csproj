@@ -50,7 +50,7 @@
     <Compile Include="MultiplayerGame.cs" />
     <Compile Include="Payload.cs" />
     <Compile Include="Player.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="Run.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -63,7 +63,7 @@
       <DependentUpon>Settings.settings</DependentUpon>
     </Compile>
     <Compile Include="ServerData.cs" />
-    <Compile Include="UDPServer.cs" />
+    <Compile Include="Core\UDPServer.cs" />
     <Compile Include="UIConsoleManager.cs" />
   </ItemGroup>
   <ItemGroup>
