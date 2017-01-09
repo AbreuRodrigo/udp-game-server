@@ -104,8 +104,7 @@ public class UDPServer
         }
         catch (Exception e)
         {
-            UIConsoleManager.WriteLineInRed("Error: Invalid code sent by player - Code: " + code);
-            UIConsoleManager.WriteLineInDarkRed("Original Message: " + e.Message);
+            UIConsoleManager.WriteLineInRed(e.Message);
         }
     }
 
