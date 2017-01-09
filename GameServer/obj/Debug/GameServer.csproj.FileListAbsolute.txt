@@ -1,8 +1,0 @@
-C:\Users\Abreu\Desktop\GameServer\GameServer\bin\Debug\GameServer.exe.config
-C:\Users\Abreu\Desktop\GameServer\GameServer\bin\Debug\GameServer.exe
-C:\Users\Abreu\Desktop\GameServer\GameServer\bin\Debug\GameServer.pdb
-C:\Users\Abreu\Desktop\GameServer\GameServer\obj\Debug\GameServer.csprojResolveAssemblyReference.cache
-C:\Users\Abreu\Desktop\GameServer\GameServer\obj\Debug\GameServer.Properties.Resources.resources
-C:\Users\Abreu\Desktop\GameServer\GameServer\obj\Debug\GameServer.csproj.GenerateResource.Cache
-C:\Users\Abreu\Desktop\GameServer\GameServer\obj\Debug\GameServer.exe
-C:\Users\Abreu\Desktop\GameServer\GameServer\obj\Debug\GameServer.pdb
